@@ -21,7 +21,7 @@
 - [Credits](#credits)
 
 ## Description
-Snowballs is a little AR project template created in Spark AR Studio. It features an AR world effect with the snowman in the centre and in which the player can throw the virtual snowballs. The user can move the snowman with the tap and hold gesture. On screen tap, the player tosses a snowball. The snowballs are pulled towards the ground by gravity. The snowballs splash on collision with the snowman or with the detected plane.
+Snowballs is a little AR project template created in Spark AR Studio. It features an AR world effect with the snowman in the centre and the player can throw virtual snowballs. The user can move the snowman with the tap and hold gesture. On screen tap, the player tosses a snowball. The snowballs are pulled towards the ground by gravity. The snowballs splash on collision with the snowman or with the detected plane.
 
 Made by Piotr "Shivek" Szafrański with **Spark AR v102** for **Windows**
 
@@ -32,7 +32,7 @@ For more information, go to the official website: [http://ShivekXR.com/snowballs
 
 ## Preview
 ### <img src="https://shivekxr.com/git/youtube.png" align="left" width="28"/>Video
-<a href="https://www.youtube.com/watch?v=mUdglj7kGOk" title="YouTube - Snowballs (Spark AR Game Example)"><img src="https://shivekxr.com/git/snowballs_yt.jpg"/></a>
+<a href="https://www.youtube.com/watch?v=U0IBOKmebTo" title="YouTube - Snowballs (Spark AR Game Example)"><img src="https://shivekxr.com/git/snowballs_yt.jpg"/></a>
 ### <p><img src="https://shivekxr.com/git/spark.png" align="left" width="28" padding="0"/>Test links</p>
 <p><a href="https://www.instagram.com/ar/702651460442399/" title="Instagram filter"><img src="https://shivekxr.com/git/instagram.png" align="left" width="24"/>Snowballs Example on Instagram</a></p>
 <p><a href="https://www.facebook.com/fbcameraeffects/tryit/702651460442399/" title="Facebook Camera Effects"><img src="https://shivekxr.com/git/facebook.png" align="left" width="24"/>Snowballs Example on Facebook Camera Effects</a></p>
@@ -55,9 +55,11 @@ I wish, but sorry, I can’t promise. If you are looking for help, please join [
 ### Is the original author a vegan?
 Unfortunately, I am not yet, but I cheer the idea of meat-free burgers.
 ### I like the project, and I have learnt something. Is there a way to return a favour?
-I am glad that you like my project and that it helped you create a cool AR effect! I put a lot of effort into creating tutorials and projects for you. If you find them helpful, consider following me on social media platforms. Check the [Author section](#author) for the links.
+I am glad that you like my project and that it helped you create a cool AR effect! I put a lot of effort into creating tutorials and projects for you. If you find them helpful, consider following me on social media platforms. Check the [Author section](#author) for the links. Thank you!
 
 ## Changelog
+- 9 Dec 2020
+  - Added snowflakes with wind
 - 5 Dec 2020
   - Updated README.md
 - 4 Dec 2020
@@ -84,6 +86,9 @@ I am glad that you like my project and that it helped you create a cool AR effec
 
 ## Credits
 Made by Piotr "Shivek" Szafrański with Spark AR Studio <https://sparkar.facebook.com>
+
+Snowing particle effect uses snowflakes (c) by Daouna Jeong <https://www.daouna.com/>
+<br>Snowflakes are licensed under a Creative Commons Attribution 3.0 <https://creativecommons.org/licenses/by/3.0/legalcode>.
 
 Cone Primitive, Cylinder Primitive, Pulse Multiplexer, Sphere Primitive, Torus Prmitive (c) by Facebook
 <br>Cone Primitive, Cylinder Primitive, Pulse Multiplexer, Sphere Primitive, Torus Prmitive are licensed under a Creative Commons Attribution 4.0 International License.
