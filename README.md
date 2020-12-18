@@ -21,7 +21,7 @@
 - [Credits](#credits)
 
 ## Description
-Snowballs is a little AR project template created in Spark AR Studio. It features an AR world effect with the snowman in the centre and the player can throw virtual snowballs. The user can move the snowman with the tap and hold gesture. On screen tap, the player tosses a snowball. The snowballs are pulled towards the ground by gravity. The snowballs splash on collision with the snowman or with the detected plane.
+Snowballs is a little AR project template created in Spark AR Studio. It features an AR world effect with the snowman in the centre and the player can throw virtual snowballs. The user can move the snowman with the tap and hold gesture. On screen tap, the player tosses a snowball. The snowballs are pulled towards the ground by gravity. The snowballs splash on collision with the snowman or with the detected plane. The player is prompted with the native instructions to help them navigate through the effect.
 
 Made by Piotr "Shivek" Szafrański with **Spark AR v102** for **Windows**
 
@@ -58,6 +58,8 @@ Unfortunately, I am not yet, but I cheer the idea of meat-free burgers.
 I am glad that you like my project and that it helped you create a cool AR effect! I put a lot of effort into creating tutorials and projects for you. If you find them helpful, consider following me on social media platforms. Check the [Author section](#author) for the links. Thank you!
 
 ## Changelog
+- 18 Dec 2020
+  - Fix snowflakes random
 - 9 Dec 2020
   - Added snowflakes with wind
 - 5 Dec 2020
@@ -87,8 +89,8 @@ I am glad that you like my project and that it helped you create a cool AR effec
 ## Credits
 Made by Piotr "Shivek" Szafrański with Spark AR Studio <https://sparkar.facebook.com>
 
-Snowing particle effect uses snowflakes (c) by Daouna Jeong <https://www.daouna.com/>
-<br>Snowflakes are licensed under a Creative Commons Attribution 3.0 <https://creativecommons.org/licenses/by/3.0/legalcode>.
+Snowflake collection <https://thenounproject.com/daouna/collection/snowflake/> (c) by Daouna Jeong <https://www.daouna.com/>
+<br>Snowflake collection is licensed under a Creative Commons Attribution 3.0 <https://creativecommons.org/licenses/by/3.0/legalcode>.
 
 Cone Primitive, Cylinder Primitive, Pulse Multiplexer, Sphere Primitive, Torus Prmitive (c) by Facebook
 <br>Cone Primitive, Cylinder Primitive, Pulse Multiplexer, Sphere Primitive, Torus Prmitive are licensed under a Creative Commons Attribution 4.0 International License.
